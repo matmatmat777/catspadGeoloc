@@ -12,9 +12,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import java.util.HashMap;
 import java.util.List;
 
-/**
- * Created by Sajah on 10/10/2017.
- */
+
 
 public class GetNearbyPlacesData extends AsyncTask<Object, String, String> {
 

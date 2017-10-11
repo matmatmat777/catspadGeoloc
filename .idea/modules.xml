@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testCatsPad-master.iml" filepath="$PROJECT_DIR$/testCatsPad-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/athome-geoloc.iml" filepath="$PROJECT_DIR$/athome-geoloc.iml" />
     </modules>
   </component>
 </project>

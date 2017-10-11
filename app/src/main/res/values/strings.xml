@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="hotel">Hotels</string>
+    <string name="atm">DAB</string>
+    <string name="cafe">Cafés</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
